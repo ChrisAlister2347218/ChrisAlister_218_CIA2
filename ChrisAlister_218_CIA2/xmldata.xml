@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CanineDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xmldata.xsd">
+  <Canine>
+    <Breed>Golden Retriever</Breed>
+    <Color>Golden</Color>
+    <Country>United States</Country>
+  </Canine>
+  <Canine>
+    <Breed>German Shepherd</Breed>
+    <Color>Black and Tan</Color>
+    <Country>Germany</Country>
+  </Canine>
+  <Canine>
+    <Breed>Poodle</Breed>
+    <Color>White</Color>
+    <Country>France</Country>
+  </Canine>
+  <Canine>
+    <Breed>Bulldog</Breed>
+    <Color>Brindle</Color>
+    <Country>United Kingdom</Country>
+  </Canine>
+  <Canine>
+    <Breed>Labrador Retriever</Breed>
+    <Color>Yellow</Color>
+    <Country>Canada</Country>
+  </Canine>
+  <Canine>
+    <Breed>Boxer</Breed>
+    <Color>Fawn</Color>
+    <Country>Germany</Country>
+  </Canine>
+  <Canine>
+    <Breed>Beagle</Breed>
+    <Color>Tri-color</Color>
+    <Country>United Kingdom</Country>
+  </Canine>
+  <Canine>
+    <Breed>Dachshund</Breed>
+    <Color>Red</Color>
+    <Country>Germany</Country>
+  </Canine>
+  <Canine>
+    <Breed>Doberman Pinscher</Breed>
+    <Color>Black and Tan</Color>
+    <Country>Germany</Country>
+  </Canine>
+  <Canine>
+    <Breed>Rottweiler</Breed>
+    <Color>Black and Tan</Color>
+    <Country>Germany</Country>
+  </Canine>
+  <!-- Add data for five more canines here -->
+</CanineDetails>
